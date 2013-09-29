@@ -1,6 +1,8 @@
 dropwizard-helloworld
 =====================
 
+README changes done
+
 $ mvn clean package
 
 $ bin/run.sh 
